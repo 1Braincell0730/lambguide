@@ -6,13 +6,11 @@
   "cover": "https://i0.hdslb.com/bfs/manga-static/f22e2906eda2c333805c8adac652956ae24dbc1a.png",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "You won’t be able to figure a man out just by his looks.",
       "volume": "",
       "last_updated": "1780193395",
       "groups": {
-        "1Braincell": [
-          "https://imgur.com/2omzocL",
-          "https://imgur.com/uEpW0hy"
+        "1Braincell": "/proxy/api/imgur/chapter/ftqDEyv/"
         ]
       }
     }
