@@ -90,7 +90,7 @@
       "volume": "",
       "last_updated": "1780218528",
       "groups": {
-        "1Braincell": "/proxy/api/mangadex/chapter/9752bf41-f930-4aad-bb2e-49649b5ac19f"
+        "1Braincell": "/proxy/api/imgchest/chapter/5xy2j35dz7l"
       }
     },
     "12": {
@@ -123,6 +123,17 @@
       "last_updated": "1780218647",
       "groups": {
         "1Braincell": "/proxy/api/mangadex/chapter/44cafd6a-712b-4ea9-9abe-a0cb17e960d9"
+      }
+    },
+    "19": {
+      "title": "Shall we...kiss?",
+      "volume": "",
+      "last_updated": "1780237169",
+      "groups": {
+        "1Braincell": [
+          "https://cdn.poipiku.com/012170574/013098783_7ZRcr3vKm.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013098783_030040530_tbE0sxHI9.jpeg_640.jpg"
+        ]
       }
     }
   }
