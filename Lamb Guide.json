@@ -114,7 +114,7 @@
       "volume": "",
       "last_updated": "1780218615",
       "groups": {
-        "1Braincell": "/proxy/api/mangadex/chapter/b4c9628d-2487-4c9e-b561-5b2761d6e59a"
+        "1Braincell": "/proxy/api/imgchest/chapter/bp45rz9mv75"
       }
     },
     "15": {
@@ -122,7 +122,23 @@
       "volume": "",
       "last_updated": "1780218647",
       "groups": {
-        "1Braincell": "/proxy/api/mangadex/chapter/44cafd6a-712b-4ea9-9abe-a0cb17e960d9"
+        "1Braincell": "/proxy/api/imgchest/chapter/dl7pb9o5jyo"
+      }
+    },
+    "16": {
+      "title": "Returned to D-Class?!",
+      "volume": "",
+      "last_updated": "1780246905",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/xny8wojrdyb"
+      }
+    },
+    "17": {
+      "title": "Then, whose should I use? Zheng Jia? Zheng Yan?",
+      "volume": "",
+      "last_updated": "1780247595",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/6eyrb8ojk7p"
       }
     },
     "18": {
@@ -306,6 +322,17 @@
           "https://cdn.poipiku.com/012170574/013099479_030042359_BxAeNOzFg.jpeg_640.jpg",
           "https://cdn.poipiku.com/012170574/013099479_030042362_j5MPEaZgr.jpeg_640.jpg",
           "https://cdn.poipiku.com/012170574/013099479_030042363_0cr08Ind7.jpeg_640.jpg"
+        ]
+      }
+    },
+    "16.5": {
+      "title": "Extra - New Year Special",
+      "volume": "",
+      "last_updated": "1780247545",
+      "groups": {
+        "1Braincell": [
+          "https://cdn.imgchest.com/files/d45a6d272f6b.jpg",
+          "https://cdn.imgchest.com/files/2890bec77116.jpg"
         ]
       }
     }
