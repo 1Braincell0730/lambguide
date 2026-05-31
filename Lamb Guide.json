@@ -11,6 +11,8 @@
       "last_updated": "1780193395",
       "groups": {
         "1Braincell": "/proxy/api/imgur/chapter/ftqDEyv/"
+          ""
+        ]
       }
     },
     "2": {
@@ -19,6 +21,8 @@
       "last_updated": "1780196300",
       "groups": {
         "1Braincell": "/proxy/api/imgur/chapter/wcUYbVI/"
+          ""
+        ]
       }
     },
     "3": {
@@ -26,7 +30,7 @@
       "volume": "",
       "last_updated": "1780197246",
       "groups": {
-        "1Braincell": [
+        "1Braincell": "/proxy/api/imgur/chapter/VzBMdsb/"
           ""
         ]
       }
@@ -36,8 +40,7 @@
       "volume": "",
       "last_updated": "1780197266",
       "groups": {
-        "1Braincell": [
-          "\"/proxy/api/imgur/chapter/nOQZgGr/\""
+        "1Braincell": "/proxy/api/imgur/chapter/nOQZgGr/"
         ]
       }
     }
