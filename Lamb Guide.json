@@ -98,7 +98,7 @@
       "volume": "",
       "last_updated": "1780218555",
       "groups": {
-        "1Braincell": "/proxy/api/mangadex/chapter/b5a00036-7da1-4abe-8d74-477bb7c033c8"
+        "1Braincell": "/proxy/api/imgchest/chapter/9rydda85lyk"
       }
     },
     "13": {
@@ -106,7 +106,7 @@
       "volume": "",
       "last_updated": "1780218584",
       "groups": {
-        "1Braincell": "/proxy/api/mangadex/chapter/87be4016-a065-4cf4-bf54-6ef7de1022b5"
+        "1Braincell": "/proxy/api/imgchest/chapter/md7okxrlr4p"
       }
     },
     "14": {
@@ -125,14 +125,92 @@
         "1Braincell": "/proxy/api/mangadex/chapter/44cafd6a-712b-4ea9-9abe-a0cb17e960d9"
       }
     },
+    "18": {
+      "title": "Who would’ve thought that you’d be into this. (full)",
+      "volume": "",
+      "last_updated": "1780240525",
+      "groups": {
+        "1Braincell": [
+          "https://cdn.imgchest.com/files/467d8c8823da.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_MvQ1rw8x9.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041428_f1bGOmtYP.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041430_LKnewHez4.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041433_oQE1KhTpI.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041437_lEGWFvEWX.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041440_Ra9SEewKo.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041441_3uuF3qgk8.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041442_hNs2ZFKhn.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041443_AqoSsF9vm.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041444_gh4tVUhrw.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041445_NPK1UBVg5.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041446_hTJl1ASJQ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041449_7b3ZDlhFA.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041450_2qRKi3hxT.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041451_jRaJGLetF.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041452_yfsdGghOJ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041453_QL6UonIlk.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041454_w0k6Hjrxx.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041455_6fp05dwg8.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041456_NgcHLTmqw.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041457_5j9TWqN53.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041459_p0yCgxzaU.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041460_ZShNsyVEj.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041461_XBOCOFxIQ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041462_iXP875e9Q.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041464_jCX6C69oB.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041467_xhUuGWdIM.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041469_AkwQoBmXL.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041472_SoaBTUU52.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041475_xGrWiKQhQ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041478_oQnG8qp2M.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041481_2S6V8avwe.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041485_tWKbazpUo.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041487_CRyKpAFrJ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041493_Q9NCZNOTX.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041498_LEMvDYP5n.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041501_80bWgf3wG.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041504_ztVQ5LUMS.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041507_VRe5wLUTb.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041508_4SWpQpY26.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041509_hS9bHEJ47.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041510_Gog3Z2Ki8.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041511_t3xmKD6Hf.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041512_HU4vlpKQ8.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041513_pRVPs9jPl.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041514_XND2dUYpe.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041515_VZ3zIZSn2.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041516_8FnEdm9se.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041517_ckZd4Ohbq.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041518_CvcFUPnv3.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041519_0wDiiVkiK.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041520_a4OivLg8D.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041521_9tGziV9k7.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041522_AjSrbuEWI.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041523_4py4h7Emn.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041524_jhwRmTKDO.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041525_4T8lo6K6w.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041526_HWvMODkvz.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041539_HocsK84PG.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041528_Vt8VGQwod.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041529_PaBAtyyee.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041530_BjCr1agXD.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041533_EypLaV73r.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041534_htUdetnqt.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041540_31ZvmJ4AA.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041536_v6JdoJubY.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041537_dYV061DLt.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099149_030041538_gQ7L1Eq68.jpeg_640.jpg"
+        ]
+      }
+    },
     "19": {
-      "title": "Shall we...kiss? (uncensored)",
+      "title": "Shall we...kiss? (full)",
       "volume": "",
       "last_updated": "1780237169",
       "groups": {
         "1Braincell": [
           "https://cdn.imgchest.com/files/f07b7ce0c822.jpg",
-          "https://cdn.poipiku.com/012170574/013098783_7ZRcr3vKm.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013098783_030042489_reV0xZ0OD.jpeg_640.jpg",
           "https://cdn.poipiku.com/012170574/013098783_030040530_tbE0sxHI9.jpeg_640.jpg",
           "https://cdn.poipiku.com/012170574/013098783_030040531_6WFYadC0e.jpeg_640.jpg",
           "https://cdn.poipiku.com/012170574/013098783_030040533_nrBJzEqKs.jpeg_640.jpg",
@@ -175,6 +253,59 @@
           "https://cdn.poipiku.com/012170574/013098783_030040594_IgJCfxMOV.jpeg_640.jpg",
           "https://cdn.poipiku.com/012170574/013098783_030040589_HXCoC270F.jpeg_640.jpg",
           "https://cdn.poipiku.com/012170574/013098783_030040590_M62fislao.jpeg_640.jpg"
+        ]
+      }
+    },
+    "20": {
+      "title": "Turns out a “normal person” enjoys this. (full)",
+      "volume": "",
+      "last_updated": "1780243625",
+      "groups": {
+        "1Braincell": [
+          "https://cdn.imgchest.com/files/af5d896106ae.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_4S6oqS8fM.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042315_kG7kXITxT.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042316_u49b8bbIb.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042364_RGgtecpGl.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042365_yCrBWpcFJ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042319_y7QzGjg1z.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042320_GYcGAvP2c.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042321_WmalakjTc.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042366_DNaBXECs7.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042324_tOBOXQtT6.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042325_nQmlXzpEL.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042326_gFZSQjzKD.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042367_BqSt2jV3k.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042368_bNiJD7evB.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042369_CFaNzrYHO.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042370_oT2nqgCju.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042331_ljcepR3Jv.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042371_gecKSaBGB.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042372_rJ7ELqPxb.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042373_hX1COvzmB.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042336_UaYqpSMke.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042337_ORzay0Owx.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042338_gXuvwSEWD.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042374_xQ74gd30K.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042341_M0lPW1Ge2.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042375_FZWAIb0vi.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042343_wSZH14uJR.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042376_gJ4fJAEJ8.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042347_B91lRFWfZ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042348_G5c62zd53.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042349_g0LwBSkoA.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042350_IW3yEyDMJ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042351_jStt4uUV4.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042352_MAFS2fL1o.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042353_YJJju2VQZ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042354_EVSxPHq3z.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042355_Rr1cBZRuL.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042356_YRwjry0bK.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042357_2iRzbXkAQ.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042358_7kvUUmaqa.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042359_BxAeNOzFg.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042362_j5MPEaZgr.jpeg_640.jpg",
+          "https://cdn.poipiku.com/012170574/013099479_030042363_0cr08Ind7.jpeg_640.jpg"
         ]
       }
     }
