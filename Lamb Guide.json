@@ -19,7 +19,27 @@
       "last_updated": "1780196300",
       "groups": {
         "1Braincell": "/proxy/api/imgur/chapter/wcUYbVI/"
-             }
+      }
+    },
+    "3": {
+      "title": "Why are both of you on my bed?!",
+      "volume": "",
+      "last_updated": "1780197246",
+      "groups": {
+        "1Braincell": [
+          ""
+        ]
+      }
+    },
+    "4": {
+      "title": "You’re clearly an S-Class Guide.",
+      "volume": "",
+      "last_updated": "1780197266",
+      "groups": {
+        "1Braincell": [
+          "\"/proxy/api/imgur/chapter/nOQZgGr/\""
+        ]
+      }
     }
   }
 }
