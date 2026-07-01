@@ -4,5 +4,62 @@
   "artist": "蛛尊 (Spider Lord), 玖一 (Jiu Yi)",
   "author": "蛛尊 (Spider Lord), 玖一 (Jiu Yi)",
   "cover": "https://mangadex.org/covers/894f3440-411c-4f7a-96f5-f13c23118c90/b74cb542-18ff-45be-baf9-0f07e631c644.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Sudden Kidnapping [uncensored]",
+      "volume": "",
+      "last_updated": "1782926539",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/qe4g9relkyj"
+      }
+    },
+    "2": {
+      "title": "The kidnappers actually are...? [uncensored]",
+      "volume": "",
+      "last_updated": "1782926598",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/n87wprlrb4x"
+      }
+    },
+    "3": {
+      "title": "A life in confinement",
+      "volume": "",
+      "last_updated": "1782926736",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/dl7pp95kj7o"
+      }
+    },
+    "4": {
+      "title": "Funeral",
+      "volume": "",
+      "last_updated": "1782926890",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/vj4jpvn9948"
+      }
+    },
+    "5": {
+      "title": "Outwitting",
+      "volume": "",
+      "last_updated": "1782926921",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/6eyrk859l7p"
+      }
+    },
+    "6": {
+      "title": "I’m sorry",
+      "volume": "",
+      "last_updated": "1782927025",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/9ryd9an6n7k"
+      }
+    },
+    "7": {
+      "title": "Resisting instinct",
+      "volume": "",
+      "last_updated": "1782927110",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/a846nk65vyx"
+      }
+    }
+  }
 }
