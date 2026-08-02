@@ -502,6 +502,22 @@
         "1Braincell": "/proxy/api/imgchest/chapter/5xy2vb5m87l"
       }
     },
+    "37": {
+      "title": "Qiao Yang went missing!",
+      "volume": "",
+      "last_updated": "1785659661",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/qb4zvw2zgyj"
+      }
+    },
+    "38": {
+      "title": "You're the one who saved me, aren't you?",
+      "volume": "",
+      "last_updated": "1785659698",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/ljyq38pjo42"
+      }
+    },
     "45": {
       "title": "The key to maintaining my S-class.",
       "volume": "",
@@ -586,6 +602,19 @@
         "1Braincell": [
           "https://cdn.imgchest.com/files/d45a6d272f6b.jpg",
           "https://cdn.imgchest.com/files/2890bec77116.jpg"
+        ]
+      }
+    },
+    "37.5": {
+      "title": "[Extra] Q: How did each of them feel the first time having lamb alone?",
+      "volume": "",
+      "last_updated": "1785660219",
+      "groups": {
+        "1Braincell": [
+          "https://cdn.imgchest.com/files/40ede9a472bf.jpg",
+          "https://cdn.imgchest.com/files/4fc440d1c1a0.jpg",
+          "https://cdn.imgchest.com/files/6fcedec72d77.jpg",
+          "https://cdn.imgchest.com/files/6f228aafd911.jpg"
         ]
       }
     }
