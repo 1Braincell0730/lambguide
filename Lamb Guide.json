@@ -273,7 +273,7 @@
       }
     },
     "20": {
-      "title": "Turns out a “normal person” enjoys this. [full] + Extra",
+      "title": "Turns out a “normal person” enjoys this. [full] + [Extra]",
       "volume": "",
       "last_updated": "1780243625",
       "groups": {
@@ -415,7 +415,7 @@
       }
     },
     "26": {
-      "title": "(CW) Recovered. (full) + Extra",
+      "title": "(CW) Recovered. [full] + [Extra]",
       "volume": "",
       "last_updated": "1780250970",
       "groups": {
@@ -556,6 +556,14 @@
       "last_updated": "1785687909",
       "groups": {
         "1Braincell": "/proxy/api/imgchest/chapter/a846bprkwyx"
+      }
+    },
+    "44": {
+      "title": "Others are not allowed to have you on their mind, not in any ways whatsoever...",
+      "volume": "",
+      "last_updated": "1785690648",
+      "groups": {
+        "1Braincell": "/proxy/api/imgchest/chapter/dl7pmvg3k7o"
       }
     },
     "45": {
